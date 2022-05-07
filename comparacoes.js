@@ -9,7 +9,7 @@ const texto = '5'; // o js converteu a string (tipo string) para o tipo number e
 
 
 
-// === -> totalmente iguais (comparação explicita)
+// === -> totalmente/estritamente iguais (comparação explicita)
 
 //console.log(numero === texto); // deu false. Não são totalmente iguais, pois um é tipo string e outro é tipo number.
 
